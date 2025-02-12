@@ -1,0 +1,17 @@
+C:\Users\herar\source\repos\relatorio medico\bin\Debug\relatorio medico.exe.config
+C:\Users\herar\source\repos\relatorio medico\bin\Debug\relatorio medico.exe
+C:\Users\herar\source\repos\relatorio medico\bin\Debug\relatorio medico.pdb
+C:\Users\herar\source\repos\relatorio medico\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\herar\source\repos\relatorio medico\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\herar\source\repos\relatorio medico\bin\Debug\Newtonsoft.Json.dll
+C:\Users\herar\source\repos\relatorio medico\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\herar\source\repos\relatorio medico\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\herar\source\repos\relatorio medico\bin\Debug\Newtonsoft.Json.xml
+C:\Users\herar\source\repos\relatorio medico\obj\Debug\relatorio medico.csproj.AssemblyReference.cache
+C:\Users\herar\source\repos\relatorio medico\obj\Debug\relatorio_medico.Properties.Resources.resources
+C:\Users\herar\source\repos\relatorio medico\obj\Debug\relatorio medico.csproj.GenerateResource.cache
+C:\Users\herar\source\repos\relatorio medico\obj\Debug\relatorio medico.csproj.CoreCompileInputs.cache
+C:\Users\herar\source\repos\relatorio medico\obj\Debug\relatori.DB8190E1.Up2Date
+C:\Users\herar\source\repos\relatorio medico\obj\Debug\relatorio medico.exe
+C:\Users\herar\source\repos\relatorio medico\obj\Debug\relatorio medico.pdb
+C:\Users\herar\source\repos\relatorio medico\obj\Debug\relatorio_medico.Form1.resources

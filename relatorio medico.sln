@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relatorio medico", "relatorio medico.csproj", "{1E3D5229-F719-47F5-849B-62E07C7A31FA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Install", "..\Install\Install.vdproj", "{402A8F14-D620-490F-ACAC-35AF10A05479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3D5229-F719-47F5-849B-62E07C7A31FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3D5229-F719-47F5-849B-62E07C7A31FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3D5229-F719-47F5-849B-62E07C7A31FA}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{1E3D5229-F719-47F5-849B-62E07C7A31FA}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{1E3D5229-F719-47F5-849B-62E07C7A31FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3D5229-F719-47F5-849B-62E07C7A31FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3D5229-F719-47F5-849B-62E07C7A31FA}.Release|ARM64.ActiveCfg = Release|ARM64
+		{1E3D5229-F719-47F5-849B-62E07C7A31FA}.Release|ARM64.Build.0 = Release|ARM64
+		{402A8F14-D620-490F-ACAC-35AF10A05479}.Debug|Any CPU.ActiveCfg = Debug
+		{402A8F14-D620-490F-ACAC-35AF10A05479}.Debug|ARM64.ActiveCfg = Debug
+		{402A8F14-D620-490F-ACAC-35AF10A05479}.Release|Any CPU.ActiveCfg = Release
+		{402A8F14-D620-490F-ACAC-35AF10A05479}.Release|ARM64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
