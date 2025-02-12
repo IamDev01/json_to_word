@@ -6,7 +6,7 @@ O programa permite aos usuários gerar relatórios com base nas informações in
 O aplicativo também inclui um instalador para facilitar a instalação e a distribuição em outros computadores.
 
 ### Funcionalidades
-Entrada de Dados: O usuário insere os dados no formato JSON.
+Entrada de Dados: O usuário insere os dados no formato JSON.  
 *Para testar o programa insira o seguinte texto json no campo de entrada*
 ```
 {
