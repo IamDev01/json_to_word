@@ -20,7 +20,7 @@ Entrada de Dados: O usuário insere os dados no formato JSON.
   ]
 }
 ```
-Botão para gerar relatório: Após acionar o botão, o programa irá verificar a entrada de dados, se estiver tudo certo, será aberto a opção de salvar o arquivo já convertido word.
+Botão para gerar relatório: Após acionar o botão, o programa irá verificar a entrada de dados, se estiver tudo certo, será aberto a opção de salvar o arquivo já convertido para word.
 
 ### Pré-requisitos  
 
