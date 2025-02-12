@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿//Copyright (c) 2025 Héricles França da Silva. Todos os direitos reservados. 
+
+using System.Collections.Generic;
 
 namespace relatorio_medico.Models
 {

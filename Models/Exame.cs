@@ -1,4 +1,6 @@
-﻿namespace relatorio_medico.Models
+﻿//Copyright (c) 2025 Héricles França da Silva. Todos os direitos reservados. 
+
+namespace relatorio_medico.Models
 {
     class Exame
     {

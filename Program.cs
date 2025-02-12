@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Copyright (c) 2025 Héricles França da Silva. Todos os direitos reservados. 
+
+using System;
 using System.Windows.Forms;
 
 namespace relatorio_medico

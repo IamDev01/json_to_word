@@ -1,4 +1,6 @@
-﻿using DocumentFormat.OpenXml.Packaging;
+﻿//Copyright (c) 2025 Héricles França da Silva. Todos os direitos reservados. 
+
+using DocumentFormat.OpenXml.Packaging;
 using DocumentFormat.OpenXml.Wordprocessing;
 using Newtonsoft.Json;
 using relatorio_medico.Models;
